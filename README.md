@@ -1,4 +1,4 @@
-# proyecto_final
+# Proyecto Final, Caso de recursos humanos
 
 ## Project setup
 ```
