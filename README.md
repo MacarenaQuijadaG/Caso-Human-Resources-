@@ -1,6 +1,6 @@
-# Proyecto Final, Caso de recursos humanos
+#  Recursos Humanos
 
-## Project setup
+## Instalacion del Proyecto
 ```
 npm install
 ```
