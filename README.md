@@ -1,6 +1,7 @@
 #  Recursos Humanos
 ## Descripción
-Consiste en una aplicación web que contiene informacion de empleados con suscorrespondientes departamentos sueldos y horarios.
+Aplicación web que contiene información de empleados con sus correspondientes departamentos sueldos y horarios.
+el listado de empleados esta en JSON.
 
 ## Tecnologias
 - [vue.js](https://es.vuejs.org/v2/guide/)
